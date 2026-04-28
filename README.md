@@ -5,13 +5,10 @@ A high-performance, local AI Voice Studio optimized for NVIDIA CUDA hardware. Th
 Mandol-Cuda-Local-VOX is a professional-grade interface for generating cinematic narration. Tired of robotic, pay-walled online generators? This engine runs entirely on your local GPU, giving you full control over the "vibe," pace, and tone of your project's voiceovers.
 
 # Key Features:
-Zero-Shot Voice Cloning: Drop a 10-second .wav clip to mimic any voice style instantly.
-
-Descriptive Voice Design: Influence the output using natural language prompts (e.g., "Deep, glacially slow, cinematic bass").
-
-RTX Optimized: Leverages CUDA for fast, high-fidelity audio generation.
-
-Studio UI: A modern, dark-themed interface designed for efficient production workflows.
+-Zero-Shot Voice Cloning: Drop a 10-second .wav clip to mimic any voice style instantly.
+-Descriptive Voice Design: Influence the output using natural language prompts (e.g., "Deep, glacially slow, cinematic bass").
+-RTX Optimized: Leverages CUDA for fast, high-fidelity audio generation.
+-Studio UI: A modern, dark-themed interface designed for efficient production workflows.
 
 #Installation (A-to-Z Guide)
 Follow these steps exactly to ensure the CUDA environment is configured correctly.
