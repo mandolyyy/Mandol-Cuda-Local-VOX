@@ -29,6 +29,7 @@ Follow these steps exactly to ensure the CUDA environment is configured correctl
 
 - Python **3.11.9** — mandatory for library compatibility
 - NVIDIA GPU with **8 GB+ VRAM** — recommended for smooth performance
+* take note that precision of the "voice style prompt" and the quality of the voice cloning sample will impact the product voice significantly
 
 ### Steps
 
