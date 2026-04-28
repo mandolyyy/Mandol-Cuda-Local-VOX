@@ -1,8 +1,8 @@
-# MyTRACE Vox-Sentinel · Local AI Voice Studio
+# Mandol-Cuda-Local-VOX · Local AI Voice Studio
 A high-performance, local AI Voice Studio optimized for NVIDIA CUDA hardware. This tool allows for instant voice cloning and descriptive voice design without cloud fees, subscriptions, or privacy concerns. Developed as a specialized module for the MyTRACE Network ecosystem.
 
 # Overview
-Vox-Sentinel is a professional-grade interface for generating cinematic narration. Tired of robotic, pay-walled online generators? This engine runs entirely on your local GPU, giving you full control over the "vibe," pace, and tone of your project's voiceovers.
+Mandol-Cuda-Local-VOX is a professional-grade interface for generating cinematic narration. Tired of robotic, pay-walled online generators? This engine runs entirely on your local GPU, giving you full control over the "vibe," pace, and tone of your project's voiceovers.
 
 # Key Features:
 Zero-Shot Voice Cloning: Drop a 10-second .wav clip to mimic any voice style instantly.
