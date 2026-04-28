@@ -1,4 +1,4 @@
-#MyTRACE Vox-Sentinel · Local AI Voice Studio
+# MyTRACE Vox-Sentinel · Local AI Voice Studio
 A high-performance, local AI Voice Studio optimized for NVIDIA CUDA hardware. This tool allows for instant voice cloning and descriptive voice design without cloud fees, subscriptions, or privacy concerns. Developed as a specialized module for the MyTRACE Network ecosystem.
 
 #🎙️ Overview
