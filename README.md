@@ -10,7 +10,7 @@ Mandol-Cuda-Local-VOX is a professional-grade interface for generating cinematic
 -RTX Optimized: Leverages CUDA for fast, high-fidelity audio generation.
 -Studio UI: A modern, dark-themed interface designed for efficient production workflows.
 
-#Installation (A-to-Z Guide)
+# Installation (A-to-Z Guide)
 Follow these steps exactly to ensure the CUDA environment is configured correctly.
 
 Prerequisites:
